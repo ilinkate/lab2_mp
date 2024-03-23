@@ -1,0 +1,1001 @@
+,Name,Age,Height,Weight,Sport
+0,A Dijiang,24.0,180.0,80.0,Basketball
+1,A Lamusi,23.0,170.0,60.0,Judo
+2,Gunnar Nielsen Aaby,24.0,,,Football
+3,Edgar Lindenau Aabye,34.0,,,Tug-Of-War
+4,Christine Jacoba Aaftink,21.0,185.0,82.0,Speed Skating
+5,Christine Jacoba Aaftink,21.0,185.0,82.0,Speed Skating
+6,Christine Jacoba Aaftink,25.0,185.0,82.0,Speed Skating
+7,Christine Jacoba Aaftink,25.0,185.0,82.0,Speed Skating
+8,Christine Jacoba Aaftink,27.0,185.0,82.0,Speed Skating
+9,Christine Jacoba Aaftink,27.0,185.0,82.0,Speed Skating
+10,Per Knut Aaland,31.0,188.0,75.0,Cross Country Skiing
+11,Per Knut Aaland,31.0,188.0,75.0,Cross Country Skiing
+12,Per Knut Aaland,31.0,188.0,75.0,Cross Country Skiing
+13,Per Knut Aaland,31.0,188.0,75.0,Cross Country Skiing
+14,Per Knut Aaland,33.0,188.0,75.0,Cross Country Skiing
+15,Per Knut Aaland,33.0,188.0,75.0,Cross Country Skiing
+16,Per Knut Aaland,33.0,188.0,75.0,Cross Country Skiing
+17,Per Knut Aaland,33.0,188.0,75.0,Cross Country Skiing
+18,John Aalberg,31.0,183.0,72.0,Cross Country Skiing
+19,John Aalberg,31.0,183.0,72.0,Cross Country Skiing
+20,John Aalberg,31.0,183.0,72.0,Cross Country Skiing
+21,John Aalberg,31.0,183.0,72.0,Cross Country Skiing
+22,John Aalberg,33.0,183.0,72.0,Cross Country Skiing
+23,John Aalberg,33.0,183.0,72.0,Cross Country Skiing
+24,John Aalberg,33.0,183.0,72.0,Cross Country Skiing
+25,John Aalberg,33.0,183.0,72.0,Cross Country Skiing
+26,"Cornelia ""Cor"" Aalten (-Strannood)",18.0,168.0,,Athletics
+27,"Cornelia ""Cor"" Aalten (-Strannood)",18.0,168.0,,Athletics
+28,Antti Sami Aalto,26.0,186.0,96.0,Ice Hockey
+29,"Einar Ferdinand ""Einari"" Aalto",26.0,,,Swimming
+30,Jorma Ilmari Aalto,22.0,182.0,76.5,Cross Country Skiing
+31,Jyri Tapani Aalto,31.0,172.0,70.0,Badminton
+32,Minna Maarit Aalto,30.0,159.0,55.5,Sailing
+33,Minna Maarit Aalto,34.0,159.0,55.5,Sailing
+34,Pirjo Hannele Aalto (Mattila-),32.0,171.0,65.0,Biathlon
+35,Arvo Ossian Aaltonen,22.0,,,Swimming
+36,Arvo Ossian Aaltonen,22.0,,,Swimming
+37,Arvo Ossian Aaltonen,30.0,,,Swimming
+38,Arvo Ossian Aaltonen,30.0,,,Swimming
+39,Arvo Ossian Aaltonen,34.0,,,Swimming
+40,Juhamatti Tapio Aaltonen,28.0,184.0,85.0,Ice Hockey
+41,Paavo Johannes Aaltonen,28.0,175.0,64.0,Gymnastics
+42,Paavo Johannes Aaltonen,28.0,175.0,64.0,Gymnastics
+43,Paavo Johannes Aaltonen,28.0,175.0,64.0,Gymnastics
+44,Paavo Johannes Aaltonen,28.0,175.0,64.0,Gymnastics
+45,Paavo Johannes Aaltonen,28.0,175.0,64.0,Gymnastics
+46,Paavo Johannes Aaltonen,28.0,175.0,64.0,Gymnastics
+47,Paavo Johannes Aaltonen,28.0,175.0,64.0,Gymnastics
+48,Paavo Johannes Aaltonen,28.0,175.0,64.0,Gymnastics
+49,Paavo Johannes Aaltonen,32.0,175.0,64.0,Gymnastics
+50,Paavo Johannes Aaltonen,32.0,175.0,64.0,Gymnastics
+51,Paavo Johannes Aaltonen,32.0,175.0,64.0,Gymnastics
+52,Paavo Johannes Aaltonen,32.0,175.0,64.0,Gymnastics
+53,Paavo Johannes Aaltonen,32.0,175.0,64.0,Gymnastics
+54,Paavo Johannes Aaltonen,32.0,175.0,64.0,Gymnastics
+55,Paavo Johannes Aaltonen,32.0,175.0,64.0,Gymnastics
+56,Paavo Johannes Aaltonen,32.0,175.0,64.0,Gymnastics
+57,Timo Antero Aaltonen,31.0,189.0,130.0,Athletics
+58,Win Valdemar Aaltonen,54.0,,,Art Competitions
+59,Kjetil Andr Aamodt,20.0,176.0,85.0,Alpine Skiing
+60,Kjetil Andr Aamodt,20.0,176.0,85.0,Alpine Skiing
+61,Kjetil Andr Aamodt,20.0,176.0,85.0,Alpine Skiing
+62,Kjetil Andr Aamodt,20.0,176.0,85.0,Alpine Skiing
+63,Kjetil Andr Aamodt,22.0,176.0,85.0,Alpine Skiing
+64,Kjetil Andr Aamodt,22.0,176.0,85.0,Alpine Skiing
+65,Kjetil Andr Aamodt,22.0,176.0,85.0,Alpine Skiing
+66,Kjetil Andr Aamodt,22.0,176.0,85.0,Alpine Skiing
+67,Kjetil Andr Aamodt,22.0,176.0,85.0,Alpine Skiing
+68,Kjetil Andr Aamodt,26.0,176.0,85.0,Alpine Skiing
+69,Kjetil Andr Aamodt,26.0,176.0,85.0,Alpine Skiing
+70,Kjetil Andr Aamodt,26.0,176.0,85.0,Alpine Skiing
+71,Kjetil Andr Aamodt,26.0,176.0,85.0,Alpine Skiing
+72,Kjetil Andr Aamodt,30.0,176.0,85.0,Alpine Skiing
+73,Kjetil Andr Aamodt,30.0,176.0,85.0,Alpine Skiing
+74,Kjetil Andr Aamodt,30.0,176.0,85.0,Alpine Skiing
+75,Kjetil Andr Aamodt,30.0,176.0,85.0,Alpine Skiing
+76,Kjetil Andr Aamodt,30.0,176.0,85.0,Alpine Skiing
+77,Kjetil Andr Aamodt,34.0,176.0,85.0,Alpine Skiing
+78,Kjetil Andr Aamodt,34.0,176.0,85.0,Alpine Skiing
+79,Ragnhild Margrethe Aamodt,27.0,163.0,,Handball
+80,Andreea Aanei,22.0,170.0,125.0,Weightlifting
+81,Fritz Aanes,22.0,187.0,89.0,Wrestling
+82,Fritz Aanes,26.0,187.0,89.0,Wrestling
+83,Nils Egil Aaness,24.0,,,Speed Skating
+84,Nils Egil Aaness,24.0,,,Speed Skating
+85,Nils Egil Aaness,27.0,,,Speed Skating
+86,Alf Lied Aanning,24.0,,,Gymnastics
+87,Agnes Erika Aanonsen (-Eyde),17.0,169.0,65.0,Luge
+88,Johan Aantjes,26.0,,,Water Polo
+89,Jan-Erik Aarberg,43.0,170.0,77.0,Sailing
+90,Jan-Erik Aarberg,47.0,170.0,77.0,Sailing
+91,Willemien Aardenburg,22.0,,,Hockey
+92,Pepijn Aardewijn,26.0,189.0,72.0,Rowing
+93,Pepijn Aardewijn,30.0,189.0,72.0,Rowing
+94,Evald rma (rman-),24.0,174.0,70.0,Athletics
+95,Olav Augunson Aarnes,23.0,,,Athletics
+96,Mika Lauri Aarnikka,24.0,187.0,76.0,Sailing
+97,Mika Lauri Aarnikka,28.0,187.0,76.0,Sailing
+98,Jamale (Djamel-) Aarrass (Ahrass-),30.0,187.0,76.0,Athletics
+99,Dagfinn Sverre Aarskog,24.0,190.0,98.0,Bobsleigh
+100,Stefan Remco Aartsen,21.0,194.0,78.0,Swimming
+101,Stefan Remco Aartsen,21.0,194.0,78.0,Swimming
+102,Stefan Remco Aartsen,21.0,194.0,78.0,Swimming
+103,Stefan Remco Aartsen,25.0,194.0,78.0,Swimming
+104,Stefan Remco Aartsen,25.0,194.0,78.0,Swimming
+105,Ann Kristin Aarnes,23.0,182.0,64.0,Football
+106,Karl Jan Aas,20.0,,,Gymnastics
+107,Lars Thorlaksn Aas,33.0,,,Fencing
+108,Lars Thorlaksn Aas,33.0,,,Fencing
+109,Lars Thorlaksn Aas,33.0,,,Fencing
+110,Roald Edgar Aas,23.0,,,Speed Skating
+111,Roald Edgar Aas,27.0,,,Speed Skating
+112,Roald Edgar Aas,27.0,,,Speed Skating
+113,Roald Edgar Aas,31.0,,,Speed Skating
+114,Roald Edgar Aas,31.0,,,Speed Skating
+115,Roald Edgar Aas,31.0,,,Speed Skating
+116,Rolf Aas,28.0,,,Football
+117,Thomas Valentin Aas,25.0,,,Sailing
+118,Morten Gjerdrum Aasen,34.0,185.0,75.0,Equestrianism
+119,Meelis Aasme,25.0,182.0,73.0,Cross Country Skiing
+120,Meelis Aasme,25.0,182.0,73.0,Cross Country Skiing
+121,Meelis Aasme,29.0,182.0,73.0,Cross Country Skiing
+122,Meelis Aasme,29.0,182.0,73.0,Cross Country Skiing
+123,Meelis Aasme,29.0,182.0,73.0,Cross Country Skiing
+124,Hakon Aasns,41.0,,,Shooting
+125,Hans Aasns,33.0,194.0,93.0,Shooting
+126,Hans Aasns,45.0,194.0,93.0,Shooting
+127,Hans Aasns,49.0,194.0,93.0,Shooting
+128,Hans Aasns,53.0,194.0,93.0,Shooting
+129,Hans Aasns,57.0,194.0,93.0,Shooting
+130,Erling Rudolf Aastad,22.0,177.0,74.0,Athletics
+131,Erling Rudolf Aastad,22.0,177.0,74.0,Athletics
+132,Erling Rudolf Aastad,26.0,177.0,74.0,Athletics
+133,Erling Rudolf Aastad,30.0,177.0,74.0,Athletics
+134,Abdelhak Aatakni,24.0,,64.0,Boxing
+135,Moonika Aava,24.0,168.0,65.0,Athletics
+136,Moonika Aava,28.0,168.0,65.0,Athletics
+137,Arvi Aavik,22.0,185.0,106.0,Wrestling
+138,Arvi Aavik,26.0,185.0,106.0,Wrestling
+139,Nstor Abad Sanjun,23.0,167.0,64.0,Gymnastics
+140,Nstor Abad Sanjun,23.0,167.0,64.0,Gymnastics
+141,Nstor Abad Sanjun,23.0,167.0,64.0,Gymnastics
+142,Nstor Abad Sanjun,23.0,167.0,64.0,Gymnastics
+143,Nstor Abad Sanjun,23.0,167.0,64.0,Gymnastics
+144,Nstor Abad Sanjun,23.0,167.0,64.0,Gymnastics
+145,Patrick Abada,22.0,189.0,80.0,Athletics
+146,Talaat Abada,24.0,172.0,58.0,Taekwondo
+147,Mohamed Jamshid Abadi,,,,Boxing
+148,Antonio Abadia Beci,26.0,170.0,65.0,Athletics
+149,Ren Abadie,21.0,,,Cycling
+150,Ren Abadie,21.0,,,Cycling
+151,Borislav Abadzhiev,24.0,176.0,66.0,Boxing
+152,Georgi Abadzhiev,,,,Cycling
+153,Georgi Abadzhiev,,,,Cycling
+154,Ivan Nikolov Abadzhiev,24.0,164.0,71.0,Weightlifting
+155,Ivan Nikolov Abadzhiev,28.0,164.0,71.0,Weightlifting
+156,Mikhail Abadzhiev,24.0,172.0,75.0,Weightlifting
+157,Stefan Abadzhiev,26.0,175.0,72.0,Football
+158,Giovanni Abagnale,21.0,198.0,90.0,Rowing
+159,Jos Luis Abajo Gmez,30.0,194.0,87.0,Fencing
+160,M'Bairo Abakar,31.0,,,Judo
+161,Patimat Abakarova,21.0,165.0,49.0,Taekwondo
+162,Mohamed Abakkar,,156.0,48.0,Boxing
+163,Mariya Vasilyevna Abakumova (-Tarabina),22.0,179.0,80.0,Athletics
+164,Mariya Vasilyevna Abakumova (-Tarabina),26.0,179.0,80.0,Athletics
+165,Pablo Martn Abal,23.0,178.0,76.0,Swimming
+166,Pablo Martn Abal,23.0,178.0,76.0,Swimming
+167,Tamara Abalde Daz,19.0,185.0,72.0,Basketball
+168,Jess Iory Aball Martnez,26.0,167.0,65.0,Diving
+169,Juan Antonio Aball Delgado,27.0,172.0,82.0,Canoeing
+170,Juan Antonio Aball Delgado,27.0,172.0,82.0,Canoeing
+171,Aleksey Aleksandrovich Abalmasov,24.0,180.0,83.0,Canoeing
+172,Aleksey Aleksandrovich Abalmasov,28.0,180.0,83.0,Canoeing
+173,Luc Abalo,23.0,182.0,86.0,Handball
+174,Luc Abalo,27.0,182.0,86.0,Handball
+175,Luc Abalo,31.0,182.0,86.0,Handball
+176,Mara Laura Abalo,30.0,182.0,73.0,Rowing
+177,Giorgos Abalof,22.0,178.0,70.0,Fencing
+178,Jouan Patrice Abanda Etong,22.0,185.0,82.0,Football
+179,Antoine Abang,27.0,166.0,75.0,Boxing
+180,Salim Abanoz,26.0,,,Judo
+181,Carlos Abarca Gonzlez,23.0,,,Boxing
+182,Jos Mara Abarca Plotas,22.0,186.0,83.0,Water Polo
+183,Georgios Abaris,22.0,190.0,77.0,Football
+184,Enrique Abaroa Martnez,26.0,183.0,75.0,Tennis
+185,Carlos Arturo Abarza Chavez,22.0,,,Shooting
+186,Stephen Anthony Abas,26.0,165.0,55.0,Wrestling
+187,Alejandro Abascal Garca,24.0,181.0,82.0,Sailing
+188,Alejandro Abascal Garca,28.0,181.0,82.0,Sailing
+189,Alejandro Abascal Garca,32.0,181.0,82.0,Sailing
+190,Jos Manuel Abascal Gmez,22.0,182.0,67.0,Athletics
+191,Jos Manuel Abascal Gmez,26.0,182.0,67.0,Athletics
+192,Rost'om Omeris dze Abashidze,29.0,188.0,97.0,Wrestling
+193,Nunu Dzhansuhivna Abashydze (-Myslaieva),25.0,168.0,105.0,Athletics
+194,Rodrigo Abasolo,21.0,,,Rowing
+195,Tamila Rashidovna Abasova,21.0,163.0,60.0,Cycling
+196,Tamila Rashidovna Abasova,21.0,163.0,60.0,Cycling
+197,Emanuele Abate,27.0,190.0,80.0,Athletics
+198,Ignazio Abate,21.0,180.0,73.0,Football
+199,Jol Marc Abati,34.0,190.0,85.0,Handball
+200,Jol Marc Abati,38.0,190.0,85.0,Handball
+201,Ral Abatte,38.0,,,Shooting
+202,Georgia Abatzidou,35.0,155.0,43.0,Athletics
+203,Carlos Rodolfo Abaunza Balladares,18.0,168.0,60.0,Athletics
+204,Carlos Alberto Abaunza,16.0,180.0,70.0,Athletics
+205,Hctor Abaunza,30.0,169.0,75.0,Fencing
+206,Hctor Abaunza,30.0,169.0,75.0,Fencing
+207,Hctor Abaunza,30.0,169.0,75.0,Fencing
+208,Pter Abay,30.0,181.0,79.0,Fencing
+209,Oszkr Abay-Nemes,22.0,,,Swimming
+210,Oszkr Abay-Nemes,22.0,,,Swimming
+211,Adeyemi Abayomi,25.0,170.0,51.0,Boxing
+212,Sayed Fahmy Abaza,,,,Football
+213,Sayed Fahmy Abaza,,,,Football
+214,Silvano Abba,25.0,,,Modern Pentathlon
+215,Gana Abba Kimet,26.0,,,Athletics
+216,Ilyas Abbadi,19.0,175.0,75.0,Boxing
+217,Ilyas Abbadi,23.0,175.0,75.0,Boxing
+218,Agostino Abbagnale,22.0,188.0,96.0,Rowing
+219,Agostino Abbagnale,29.0,188.0,96.0,Rowing
+220,Agostino Abbagnale,34.0,188.0,96.0,Rowing
+221,Carmine Abbagnale,22.0,182.0,90.0,Rowing
+222,Carmine Abbagnale,26.0,182.0,90.0,Rowing
+223,Carmine Abbagnale,30.0,182.0,90.0,Rowing
+224,Carmine Abbagnale,34.0,182.0,90.0,Rowing
+225,Giuseppe Abbagnale,20.0,187.0,97.0,Rowing
+226,Giuseppe Abbagnale,25.0,187.0,97.0,Rowing
+227,Giuseppe Abbagnale,29.0,187.0,97.0,Rowing
+228,Giuseppe Abbagnale,33.0,187.0,97.0,Rowing
+229,Abdul Latif Al-Sayed Abbas Youssef Hashem,23.0,176.0,64.0,Athletics
+230,Abdul Latif Al-Sayed Abbas Youssef Hashem,23.0,176.0,64.0,Athletics
+231,Abdul Latif Al-Sayed Abbas Youssef Hashem,27.0,176.0,64.0,Athletics
+232,Abubakar Abbas Abbas,20.0,175.0,66.0,Athletics
+233,Aqarab Abbas,22.0,190.0,88.0,Athletics
+234,Aziz Abbas,21.0,169.0,67.0,Weightlifting
+235,Bassim Abbas Kati Al-Ogaili,22.0,175.0,80.0,Football
+236,Essa Abbas Faleh Hashem,20.0,160.0,65.0,Athletics
+237,Ghulam Abbas,24.0,181.0,74.0,Athletics
+238,Hosni Mohamed Abbas,28.0,,60.0,Weightlifting
+239,Hosni Mohamed Abbas,32.0,,60.0,Weightlifting
+240,Maher Abbas,22.0,178.0,78.0,Athletics
+241,Maher Abbas,22.0,178.0,78.0,Athletics
+242,Mahmoud Abbas,22.0,165.0,65.0,Cycling
+243,Mohamed Fakhry Rifaat Abbas,19.0,,,Diving
+244,Mohammed Abbas Sabih,26.0,170.0,70.0,Swimming
+245,Muhammad Abbas,23.0,168.0,55.0,Alpine Skiing
+246,Nader Sufyan Abbas,28.0,173.0,77.0,Weightlifting
+247,Sohail Abbas,25.0,178.0,80.0,Hockey
+248,Sohail Abbas,29.0,178.0,80.0,Hockey
+249,Sohail Abbas,37.0,178.0,80.0,Hockey
+250,Youssef Mohamed Abbas,31.0,,,Basketball
+251,Zulkifli Abbas,28.0,170.0,62.0,Hockey
+252,Forough Abbasi,20.0,164.0,58.0,Alpine Skiing
+253,Shakeel Abbasi,20.0,165.0,60.0,Hockey
+254,Shakeel Abbasi,24.0,165.0,60.0,Hockey
+255,Shakeel Abbasi,28.0,165.0,60.0,Hockey
+256,Soulmaz Abbasi Azad,28.0,173.0,60.0,Rowing
+257,Ruslan Abbasov,22.0,181.0,74.0,Athletics
+258,Tural Abbasov,18.0,182.0,76.0,Swimming
+259,Tran Abbasova,33.0,159.0,53.0,Weightlifting
+260,Simona Abbate,28.0,171.0,64.0,Water Polo
+261,Franz Abb,,,,Gymnastics
+262,Christian Abbiati,23.0,192.0,90.0,Football
+263,Lois Abbingh,23.0,178.0,72.0,Handball
+264,Alessandro Abbio,29.0,195.0,85.0,Basketball
+265,Giordano Giulio Abbondati,15.0,175.0,64.0,Figure Skating
+266,Giordano Giulio Abbondati,19.0,175.0,64.0,Figure Skating
+267,Salwan Jasim Abbood Abbood,24.0,180.0,104.0,Weightlifting
+268,"George ""Ioannis"" Abbot",,,,Football
+269,"William ""Bill"" Abbott Jr.",42.0,172.0,80.0,Sailing
+270,"William ""Bill"" Abbott Jr.",46.0,172.0,80.0,Sailing
+271,Clare Abbott,30.0,167.0,58.0,Equestrianism
+272,Clare Abbott,30.0,167.0,58.0,Equestrianism
+273,"David ""Dave"" Abbott",26.0,183.0,75.0,Athletics
+274,"Desmond ""Des"" Abbott",21.0,184.0,87.0,Hockey
+275,Geoffrey Grant Abbott,23.0,179.0,80.0,Hockey
+276,Jeremy Abbott,24.0,175.0,70.0,Figure Skating
+277,Jeremy Abbott,28.0,175.0,70.0,Figure Skating
+278,Jeremy Abbott,28.0,175.0,70.0,Figure Skating
+279,Jeremy Abbott,19.0,179.0,71.0,Canoeing
+280,Joanne Abbott,41.0,160.0,57.0,Sailing
+281,"Kathryn ""Katie"" Abbott",21.0,164.0,63.0,Sailing
+282,Mara Katherine Abbott,30.0,163.0,52.0,Cycling
+283,Margaret Ives Abbott (-Dunne),23.0,,,Golf
+284,Mary Perkins Ives Abbott (Perkins-),42.0,,,Golf
+285,Matt Abbott,34.0,185.0,91.0,Sailing
+286,Monica Cecilia Abbott,23.0,191.0,88.0,Softball
+287,Khadija Abbouda,40.0,165.0,57.0,Archery
+288,Mohamed Ibrahim Abd El-Fatah Mohamed,22.0,185.0,98.0,Wrestling
+289,Mohamed Ibrahim Abd El-Fatah Mohamed,26.0,185.0,98.0,Wrestling
+290,Mohamed Ibrahim Abd El-Fatah Mohamed,34.0,185.0,98.0,Wrestling
+291,Mahmoud Abd El-Kader,23.0,195.0,94.0,Volleyball
+292,Mohamed Ibrahim Abd El-Salam,22.0,192.0,83.0,Handball
+293,Mohamed Ibrahim Abd El-Salam,26.0,192.0,83.0,Handball
+294,Noha Abd Rabo,21.0,,,Taekwondo
+295,Reem Wa'il Abdalazem Abdalazem El-Bossaty,15.0,167.0,60.0,Synchronized Swimming
+296,Reem Wa'il Abdalazem Abdalazem El-Bossaty,15.0,167.0,60.0,Synchronized Swimming
+297,Reem Wa'il Abdalazem Abdalazem El-Bossaty,19.0,167.0,60.0,Synchronized Swimming
+298,Ali Abdalla Afringi,25.0,163.0,57.0,Athletics
+299,Hossam Abdalla,28.0,203.0,97.0,Volleyball
+300,Hosam Abdallah,25.0,,,Handball
+301,Hosam Abdallah,29.0,,,Handball
+302,Ismail Abdallah,,,,Gymnastics
+303,Ismail Abdallah,,,,Gymnastics
+304,Ismail Abdallah,,,,Gymnastics
+305,Ismail Abdallah,,,,Gymnastics
+306,Ismail Abdallah,,,,Gymnastics
+307,Ismail Abdallah,,,,Gymnastics
+308,Ismail Abdallah,,,,Gymnastics
+309,Ismail Abdallah,,,,Gymnastics
+310,Maged Abdallah,22.0,,,Fencing
+311,Nia Nicole Abdallah,20.0,175.0,56.0,Taekwondo
+312,Omari Abdallah,21.0,168.0,57.0,Athletics
+313,Omari Abdallah,29.0,168.0,57.0,Athletics
+314,Ould Lamine Abdallah,,,,Athletics
+315,Younis Abdallah Rabee,23.0,169.0,68.0,Athletics
+316,Raida Abdallah Bader,19.0,158.0,49.0,Athletics
+317,Maha Abdalsalam Gouda,18.0,172.0,61.0,Diving
+318,Mahmoud Abdel Aziz,25.0,174.0,70.0,Volleyball
+319,Mohamed Abdel Ellah,32.0,168.0,68.0,Shooting
+320,Mohamed Abdel Fatah,,170.0,69.0,Football
+321,Ali Mohamed Badawi Abdel Fattah Badawi,19.0,,,Football
+322,Abdelgani Hassan Abdel Fattah,31.0,,,Athletics
+323,Mahmoud Atter Abdel Fattah,,,,Athletics
+324,Mohamed Abdel Fattah,23.0,174.0,69.0,Cycling
+325,Sayed Abdel Gadir,23.0,180.0,56.0,Boxing
+326,Sayed Abdel Gadir,32.0,180.0,56.0,Boxing
+327,Ibrahim Saad Abdel Galil,,176.0,73.0,Athletics
+328,Ibrahim Saad Abdel Galil,,176.0,73.0,Athletics
+329,Heba Abdel Gawad,18.0,154.0,48.0,Synchronized Swimming
+330,Heba Abdel Gawad,22.0,154.0,48.0,Synchronized Swimming
+331,Sara Abdel Gawad,18.0,153.0,46.0,Synchronized Swimming
+332,Gamal Amin Abdel Ghani,29.0,,,Hockey
+333,Abdel Sattar Abdel Hadj,,,,Rowing
+334,Ragy Abdel Hady,30.0,186.0,100.0,Water Polo
+335,Osman Abdel Hafeez,31.0,,,Fencing
+336,Osman Abdel Hafeez,31.0,,,Fencing
+337,Osman Abdel Hafeez,31.0,,,Fencing
+338,Osman Abdel Hafeez,35.0,,,Fencing
+339,Osman Abdel Hafeez,35.0,,,Fencing
+340,Mohamed Abdel Hafiz,,,,Water Polo
+341,Moustafa Ali Abdel Halim,32.0,152.0,52.0,Weightlifting
+342,Mohamed Abdel Hamed,24.0,193.0,82.0,Volleyball
+343,Hwad Ibrahim Abdel Hamid Lumomba,,162.0,57.0,Boxing
+344,Ibrahim Abdel Hamid,,,,Wrestling
+345,Tamer Mohamed Abdel Hamid,20.0,,,Football
+346,Ahmed El-Sayed Abdel Hamid Mobarak,25.0,189.0,85.0,Basketball
+347,Dorri Abdel Kader Said,21.0,,,Water Polo
+348,Dorri Abdel Kader Said,21.0,,,Swimming
+349,Dorri Abdel Kader Said,21.0,,,Swimming
+350,Dorri Abdel Kader Said,25.0,,,Water Polo
+351,Dorri Abdel Kader Said,25.0,,,Swimming
+352,Dorri Abdel Kader Said,33.0,,,Water Polo
+353,Moustafa Mounib Abdel Kader,,176.0,67.0,Athletics
+354,Mohamed Ali Abdel Kerim,24.0,,81.0,Weightlifting
+355,Mohamed Ali Abdel Kerim,32.0,,81.0,Weightlifting
+356,Mohamed Abdel Khaled,24.0,183.0,76.0,Handball
+357,Abdel Latif Abdel Latif,28.0,172.0,68.0,Wrestling
+358,Walid Abdel Maksoud,29.0,,,Handball
+359,Amir Abdel Meguid,23.0,178.0,67.0,Basketball
+360,Amir Abdel Meguid,27.0,178.0,67.0,Basketball
+361,Mohamed Abdel Mohamed,24.0,,,Handball
+362,Karim Abdel Mohsen,25.0,188.0,92.0,Water Polo
+363,Awad Abdel Nabi Awad,19.0,198.0,80.0,Basketball
+364,Awad Abdel Nabi Awad,23.0,198.0,80.0,Basketball
+365,Ahmed Abdel Naeim,23.0,197.0,87.0,Volleyball
+366,Ahmed Abdel Naeim,31.0,197.0,87.0,Volleyball
+367,Moustafa Abdel Naser,21.0,176.0,74.0,Athletics
+368,Ali Abdel Radi,24.0,,,Rowing
+369,Amin Abdel Rahman,18.0,,,Water Polo
+370,Amin Abdel Rahman,22.0,,,Water Polo
+371,Mohamed Fathallah Abdel Rahman,21.0,,,Fencing
+372,Mohamed Fathallah Abdel Rahman,33.0,,,Fencing
+373,Mohamed Fathallah Abdel Rahman,33.0,,,Fencing
+374,Mohamed Fathallah Abdel Rahman,37.0,,,Fencing
+375,Mohamed Fathallah Abdel Rahman,37.0,,,Fencing
+376,Mohamed Fathallah Abdel Rahman,37.0,,,Fencing
+377,Mohamed Fathallah Abdel Rahman,37.0,,,Fencing
+378,Fathi Ali Abdel Rahman,20.0,,,Boxing
+379,Ibrahim Abdel Rahman,,,,Water Polo
+380,Khaled Abdel Rahman,27.0,188.0,79.0,Volleyball
+381,Sameh Abdel Rahman,16.0,,,Fencing
+382,Sameh Abdel Rahman,21.0,,,Fencing
+383,Sameh Abdel Rahman,21.0,,,Fencing
+384,Yasser Abdel Rahman Sakr,30.0,180.0,120.0,Wrestling
+385,Samy Abdel Razek,28.0,170.0,60.0,Shooting
+386,Samy Abdel Razek,36.0,170.0,60.0,Shooting
+387,Samy Abdel Razek,36.0,170.0,60.0,Shooting
+388,Mohamed Youssef Abdel Razik,21.0,,,Football
+389,Ibrahim Ahmed Abdel Rehim,21.0,190.0,83.0,Fencing
+390,Kamal Abdel Rehim,26.0,190.0,95.0,Rowing
+391,Reskalla Mohamed Abdel Rehim,22.0,165.0,48.0,Boxing
+392,Ahmed Ali Abdel Samad,27.0,195.0,95.0,Boxing
+393,Ali Abdel Sami,28.0,,,Rowing
+394,Mohamed Abdel Sami,,,,Rowing
+395,Sameh Abdel Waress Muhammad,24.0,,,Handball
+396,Mohamed Said Abdel Wehab,22.0,157.0,48.0,Boxing
+397,Mahmoud Abdel-Aal,19.0,,,Gymnastics
+398,Mahmoud Abdel-Aal,19.0,,,Gymnastics
+399,Mahmoud Abdel-Aal,19.0,,,Gymnastics
+400,Mahmoud Abdel-Aal,19.0,,,Gymnastics
+401,Mahmoud Abdel-Aal,19.0,,,Gymnastics
+402,Mahmoud Abdel-Aal,19.0,,,Gymnastics
+403,Mahmoud Abdel-Aal,19.0,,,Gymnastics
+404,Mahmoud Abdel-Aal,19.0,,,Gymnastics
+405,Mohamed Abdel-El,,,,Wrestling
+406,Shaimaa Abdel-Latif-Hashad,23.0,165.0,57.0,Shooting
+407,Shaimaa Abdel-Latif-Hashad,27.0,165.0,57.0,Shooting
+408,Shaimaa Abdel-Latif-Hashad,35.0,165.0,57.0,Shooting
+409,Sanad Bushara Abdel-Nadif,,,,Football
+410,Ahmed Abdelaal,27.0,188.0,89.0,Volleyball
+411,Mahmoud Abdelaal,24.0,176.0,60.0,Boxing
+412,Mohamed Ali Abdelaal,26.0,175.0,81.0,Judo
+413,Moustafa Abdelal,,,,Gymnastics
+414,Moustafa Abdelal,,,,Gymnastics
+415,Moustafa Abdelal,,,,Gymnastics
+416,Moustafa Abdelal,,,,Gymnastics
+417,Moustafa Abdelal,,,,Gymnastics
+418,Moustafa Abdelal,,,,Gymnastics
+419,Moustafa Abdelal,,,,Gymnastics
+420,Moustafa Abdelal,,,,Gymnastics
+421,Mahmod Abdelaly,41.0,,,Shooting
+422,Ibrahim Ramadan Ibrahim Abdelbaki,24.0,173.0,77.0,Weightlifting
+423,Ibrahim Ramadan Ibrahim Abdelbaki,28.0,173.0,77.0,Weightlifting
+424,Aziza Abdelfattah,17.0,159.0,51.0,Synchronized Swimming
+425,Abdalla Abdelgadir El-Sheikh,21.0,170.0,58.0,Athletics
+426,Magdi Abdelghani Sayed Ahmed,25.0,,,Football
+427,Ragab Abdelhay Saad Abdelrazek Abdallah,21.0,170.0,94.0,Weightlifting
+428,Ragab Abdelhay Saad Abdelrazek Abdallah,25.0,170.0,94.0,Weightlifting
+429,Ben Ahmed Abdelkrim,20.0,,,Athletics
+430,Mohamed Abdellah,36.0,170.0,70.0,Shooting
+431,Mohamed Abdellah,40.0,170.0,70.0,Shooting
+432,Ayoub Abdellaoui,23.0,184.0,68.0,Football
+433,Leila Abdelmoez,19.0,160.0,46.0,Synchronized Swimming
+434,Sayed Abdelmonem Sayed Hamed,23.0,170.0,60.0,Wrestling
+435,Ahmed Abdelrahman,20.0,165.0,60.0,Judo
+436,Ihab Abdelrahman El-Sayed Abdelrahman,23.0,194.0,96.0,Athletics
+437,Raouf Abdelraouf,22.0,167.0,63.0,Gymnastics
+438,Raouf Abdelraouf,22.0,167.0,63.0,Gymnastics
+439,Raouf Abdelraouf,22.0,167.0,63.0,Gymnastics
+440,Raouf Abdelraouf,22.0,167.0,63.0,Gymnastics
+441,Raouf Abdelraouf,22.0,167.0,63.0,Gymnastics
+442,Abouelfetoh Abdelrazek,21.0,,,Handball
+443,Mamdouh Abdelrehim,26.0,207.0,90.0,Volleyball
+444,El-Hachemi Abdenouz,24.0,170.0,63.0,Athletics
+445,Rda Abdenouz,19.0,170.0,63.0,Athletics
+446,Rda Abdenouz,23.0,170.0,63.0,Athletics
+447,Mouni Abderrahim,22.0,173.0,60.0,Volleyball
+448,Mouni Abderrahim,26.0,173.0,60.0,Volleyball
+449,Saeid Morad Abdevali,22.0,170.0,80.0,Wrestling
+450,Saeid Morad Abdevali,26.0,170.0,80.0,Wrestling
+451,Bashir Abdi,27.0,176.0,56.0,Athletics
+452,Bashir Abdi,27.0,176.0,56.0,Athletics
+453,Youcef Abdi,30.0,178.0,66.0,Athletics
+454,Youcef Abdi,34.0,178.0,66.0,Athletics
+455,Jamal Abdi Hassan Abdullah,19.0,177.0,65.0,Athletics
+456,Jamal Abdi Hassan Abdullah,23.0,177.0,65.0,Athletics
+457,Talal Omar Abdillahi,21.0,170.0,57.0,Athletics
+458,Talal Omar Abdillahi,25.0,170.0,57.0,Athletics
+459,Mahmoud Ahmed Abdin,21.0,,,Fencing
+460,Mahmoud Ahmed Abdin,21.0,,,Fencing
+461,Mahmoud Ahmed Abdin,29.0,,,Fencing
+462,Mahmoud Ahmed Abdin,29.0,,,Fencing
+463,Mahmoud Ahmed Abdin,29.0,,,Fencing
+464,Mahmoud Ahmed Abdin,29.0,,,Fencing
+465,Mahmoud Ahmed Abdin,41.0,,,Fencing
+466,"Abdihakim ""Abdi"" Abdirahman",23.0,178.0,61.0,Athletics
+467,"Abdihakim ""Abdi"" Abdirahman",27.0,178.0,61.0,Athletics
+468,"Abdihakim ""Abdi"" Abdirahman",31.0,178.0,61.0,Athletics
+469,"Abdihakim ""Abdi"" Abdirahman",35.0,178.0,61.0,Athletics
+470,Ali Abdo,19.0,169.0,74.0,Wrestling
+471,Ali Abdo,23.0,169.0,74.0,Wrestling
+472,Ali Abdo,27.0,169.0,74.0,Wrestling
+473,Hamza Abdo,17.0,,,Swimming
+474,Reema Abdo,21.0,173.0,59.0,Swimming
+475,Reema Abdo,21.0,173.0,59.0,Swimming
+476,Reema Abdo,21.0,173.0,59.0,Swimming
+477,Ahmed Abdo Mustafa,,,,Football
+478,Nasrollah Abdollahi,24.0,183.0,75.0,Football
+479,Yhyacinthe Mewoli Abdon,26.0,176.0,60.0,Boxing
+480,Hassane Abdou,23.0,185.0,67.0,Athletics
+481,Justin Abdou,29.0,175.0,85.0,Wrestling
+482,Moustafa Ahmed Ismail Abdou Ali Arfah,31.0,,,Football
+483,Raouf Abdou,22.0,165.0,60.0,Modern Pentathlon
+484,Mohamed Abdou El-Souad,19.0,180.0,76.0,Modern Pentathlon
+485,Mohamed Abdou El-Souad,19.0,180.0,76.0,Modern Pentathlon
+486,Mohamed Abdou El-Souad,23.0,180.0,76.0,Modern Pentathlon
+487,Mohamed Abdou El-Souad,23.0,180.0,76.0,Modern Pentathlon
+488,Brahim Daoud Abdoulaye,25.0,,71.0,Athletics
+489,Fawziya Abdoulkarim,27.0,180.0,67.0,Volleyball
+490,Alaa El-Din Abdoun,23.0,188.0,78.0,Basketball
+491,Ibrahim Abdrabbou,27.0,,,Boxing
+492,Berik Abdrakhmanov,30.0,165.0,60.0,Boxing
+493,Maizurah Abdul Rahim,17.0,147.0,50.0,Athletics
+494,Mehdi Fahim Abdul Al-Sada,24.0,184.0,70.0,Athletics
+495,Bashir Abdullah Abdul Aziz,22.0,180.0,73.0,Football
+496,Chairil Anwar Abdul Aziz,24.0,163.0,61.0,Hockey
+497,Chairil Anwar Abdul Aziz,28.0,163.0,61.0,Hockey
+498,Shaimaa Abdul Aziz,19.0,160.0,53.0,Table Tennis
+499,Shaimaa Abdul Aziz,19.0,160.0,53.0,Table Tennis
+500,Shaimaa Abdul Aziz,27.0,160.0,53.0,Table Tennis
+501,Mohamed Abdul Hadj,25.0,,,Hockey
+502,Jefri Kiko Bolkiah Abdul Hakeem,23.0,172.0,90.0,Shooting
+503,Jefri Kiko Bolkiah Abdul Hakeem,27.0,172.0,90.0,Shooting
+504,Mohamed Abdul Hamid,19.0,175.0,55.0,Swimming
+505,S. Abdul Hamid,,,,Athletics
+506,S. Abdul Hamid,,,,Athletics
+507,Hadi Abdul Jabbar,30.0,180.0,117.5,Weightlifting
+508,Hadi Abdul Jabbar,34.0,180.0,117.5,Weightlifting
+509,Mohamed Abed Abdul Jawad,22.0,169.0,65.0,Football
+510,Anouar Abdul Kader,27.0,,,Football
+511,Talal Hassoun Abdul Kader,,,82.0,Weightlifting
+512,Abdul Aziz Hassan Al-Hadba Abdul Karim Abdul Kareem,23.0,169.0,60.0,Athletics
+513,Abdul Aziz Hassan Al-Hadba Abdul Karim Abdul Kareem,23.0,169.0,60.0,Athletics
+514,Taha Abdul Karim,20.0,156.0,59.0,Boxing
+515,Masoud Abdul Khamis Al-Rahman,17.0,176.0,68.0,Athletics
+516,Abdul Haji Abdul Latheef,17.0,168.0,54.0,Athletics
+517,Fatima Abdul Majeed Hameed Al-Kirashi,14.0,,,Swimming
+518,Majed Ahmed Abdul Mohamed,26.0,172.0,70.0,Football
+519,Firouz Abdul Mohammadian,34.0,178.0,74.0,Water Polo
+520,Hussam Abdul Rahman,30.0,175.0,80.0,Shooting
+521,Mohamed Ghulom Abdul Rahman,,175.0,85.0,Shooting
+522,Suleman Abdul Rahman,29.0,174.0,55.0,Cycling
+523,Zambrose Abdul Rahman,24.0,173.0,64.0,Athletics
+524,Lala Abdul Rashid,38.0,169.0,91.0,Hockey
+525,Muhammad Abdul Rashid,23.0,181.0,72.0,Hockey
+526,Dana Abdul Razak (Hussain-),22.0,163.0,56.0,Athletics
+527,Dana Abdul Razak (Hussain-),26.0,163.0,56.0,Athletics
+528,A. Abdul Razzak,,178.0,70.0,Athletics
+529,A. Abdul Razzak,,178.0,70.0,Athletics
+530,Mohamed Abdul Razzak,,177.0,68.0,Athletics
+531,Muhammad Abdul Razzaq,,,,Hockey
+532,Hazim Abdul Ridha,,160.0,52.0,Wrestling
+533,Rauf Abdul Seoud,21.0,,,Diving
+534,Rauf Abdul Seoud,33.0,,,Diving
+535,Samir Ahmed Abdul Shakour,24.0,180.0,72.0,Football
+536,Nabil Abdul Tahlak,39.0,,,Shooting
+537,Fahmi Ahmed Abdul Wahab Al-Tahri,23.0,,,Athletics
+538,Mohamed Abdul Wahab Al-Salah,21.0,,,Swimming
+539,Mohamed Abdul Wahab Al-Salah,21.0,,,Swimming
+540,Qazi Abdul Waheed,30.0,,,Hockey
+541,Patmawati Abdul Wahid,32.0,158.0,58.0,Weightlifting
+542,Haidar Abdul-Amir Hassan,21.0,185.0,80.0,Football
+543,Haidar Abdul-Razzaq Hassan,22.0,175.0,75.0,Football
+544,"Lawal Kolawole ""Kola"" Abdulai",21.0,172.0,66.0,Athletics
+545,"Lawal Kolawole ""Kola"" Abdulai",21.0,172.0,66.0,Athletics
+546,"Lawal Kolawole ""Kola"" Abdulai",25.0,172.0,66.0,Athletics
+547,"Lawal Kolawole ""Kola"" Abdulai",25.0,172.0,66.0,Athletics
+548,"Rukayatu ""Ruky"" Abdulai",22.0,180.0,59.0,Athletics
+549,Mona Ahmad Abdulaziz Hassanein,26.0,166.0,61.0,Fencing
+550,Zagalav Abdulbekovich Abdulbekov,26.0,160.0,62.0,Wrestling
+551,Roosevelt M. Abdulgafur,24.0,181.0,73.0,Swimming
+552,Roosevelt M. Abdulgafur,24.0,181.0,73.0,Swimming
+553,Roosevelt M. Abdulgafur,24.0,181.0,73.0,Swimming
+554,Roosevelt M. Abdulgafur,24.0,181.0,73.0,Swimming
+555,Roosevelt M. Abdulgafur,24.0,181.0,73.0,Swimming
+556,Ahmed Abdulkareem Ahmed,20.0,,,Boxing
+557,Gamal Ahmed Abdulla,28.0,,,Hockey
+558,Mohamed Sayed Abdulla,18.0,,,Hockey
+559,Ahmad Hassan Abdullah,27.0,164.0,55.0,Athletics
+560,Ahmed Ghanim Abdullah,20.0,184.0,79.0,Swimming
+561,Aquil Hashim Abdullah (Shumate-),31.0,187.0,83.0,Rowing
+562,Atallah Abdullah,32.0,,88.0,Weightlifting
+563,Magdy Ahmed Abdullah,25.0,,,Hockey
+564,Mohamed Abdullah,,176.0,66.0,Swimming
+565,Mohamed Abdullah,,176.0,66.0,Swimming
+566,Mohamed Abdullah,,176.0,66.0,Swimming
+567,Mohamed Abdullah,,176.0,66.0,Swimming
+568,Mohamed Abdullah,,176.0,66.0,Swimming
+569,Mohamed Abdullah,,176.0,66.0,Swimming
+570,Mohamed Samy Abdullah,,165.0,65.0,Athletics
+571,Mohamed Abdullah,,180.0,76.0,Athletics
+572,Osama Abdullah,21.0,,,Football
+573,Tewfik Abdullah,23.0,,,Football
+574,Wan Azlan Abdullah,21.0,188.0,77.0,Swimming
+575,Wan Azlan Abdullah,21.0,188.0,77.0,Swimming
+576,Wan Azlan Abdullah,21.0,188.0,77.0,Swimming
+577,Wan Azlan Abdullah,25.0,188.0,77.0,Swimming
+578,Zarinah Abdullah,21.0,,,Badminton
+579,Zarinah Abdullah,25.0,,,Badminton
+580,Abdel Wahab Abdullah Salih,,190.0,75.0,Boxing
+581,Abdel Wahab Abdullah Salih,,190.0,75.0,Boxing
+582,Abubakar Sadiq Abdullahi,28.0,,,Tennis
+583,Abdulqdir Abdullayev,28.0,188.0,91.0,Boxing
+584,Arif Yadulla Abdullayev,27.0,164.0,60.0,Wrestling
+585,Arif Yadulla Abdullayev,32.0,164.0,60.0,Wrestling
+586,Mukhammad Kadyr Abdullayev,22.0,169.0,63.0,Boxing
+587,Mukhammad Kadyr Abdullayev,26.0,169.0,63.0,Boxing
+588,Muminzhon Abdullayev,22.0,190.0,130.0,Wrestling
+589,Muminzhon Abdullayev,26.0,190.0,130.0,Wrestling
+590,Namiq Yadulla Abdullayev,25.0,167.0,55.0,Wrestling
+591,Namiq Yadulla Abdullayev,29.0,167.0,55.0,Wrestling
+592,Namiq Yadulla Abdullayev,33.0,167.0,55.0,Wrestling
+593,Laye Abdullayeva,21.0,170.0,47.0,Athletics
+594,lqar Abdulov,27.0,175.0,74.0,Wrestling
+595,Abdullah Abdulrahman Zeyab,16.0,177.0,,Swimming
+596,Abir Abdulrahman Khalil Mahmoud Khalil,16.0,162.0,72.0,Weightlifting
+597,Abir Abdulrahman Khalil Mahmoud Khalil,20.0,162.0,72.0,Weightlifting
+598,Amer Abdulrahman Abdallah Hussain Al-Hammadi,23.0,168.0,68.0,Football
+599,Omar Abdulrahman Ahmad Al-Raaqi Al-Amoudi,20.0,168.0,62.0,Football
+600,Shaza Yahia Nazih Abdulrahman El-Sayed,15.0,170.0,59.0,Synchronized Swimming
+601,Shaza Yahia Nazih Abdulrahman El-Sayed,19.0,170.0,59.0,Synchronized Swimming
+602,Shaza Yahia Nazih Abdulrahman El-Sayed,19.0,170.0,59.0,Synchronized Swimming
+603,Najim Abdulrazak Al-Enazy,18.0,150.0,60.0,Athletics
+604,Zeyad Abdulrazak Al-Khudhur Al-Enazy,19.0,181.0,66.0,Athletics
+605,Zeyad Abdulrazak Al-Khudhur Al-Enazy,23.0,181.0,66.0,Athletics
+606,Waheed Abdulridha Waheed Karaawi,33.0,178.0,74.0,Boxing
+607,Mohamed Abdultwab Ibrahim Abd El-Baki,21.0,162.0,69.0,Weightlifting
+608,Mohamed Abdultwab Ibrahim Abd El-Baki,25.0,162.0,69.0,Weightlifting
+609,Julius Shareef Abdur-Rahim,23.0,202.0,104.0,Basketball
+610,Sherzod Abdurahmonov,22.0,178.0,73.0,Boxing
+611,Rasul Abduraim,19.0,183.0,74.0,Taekwondo
+612,Rasul Abduraim,23.0,183.0,74.0,Taekwondo
+613,Bekzod Makhamadzhonovich Abdurakhmonov,26.0,172.0,74.0,Wrestling
+614,Mukhamadmurod Abdurakhmonov,29.0,192.0,117.0,Judo
+615,Adlan Aliyevich Abdurashidov,26.0,172.0,60.0,Boxing
+616,Yusup Abdusalomov,26.0,170.0,84.0,Wrestling
+617,Yusup Abdusalomov,30.0,170.0,84.0,Wrestling
+618,Yusup Abdusalomov,34.0,170.0,84.0,Wrestling
+619,Fawzi Abdussalam,,179.0,76.0,Cycling
+620,Andrey Khakimovich Abduvaliyev,26.0,190.0,125.0,Athletics
+621,Andrey Khakimovich Abduvaliyev,34.0,190.0,125.0,Athletics
+622,Dzhamolidin Mirgarifanovich Abduzhaparov,24.0,174.0,72.0,Cycling
+623,Dzhamolidin Mirgarifanovich Abduzhaparov,32.0,174.0,72.0,Cycling
+624,Aybek Abdymomunov,18.0,162.0,54.0,Boxing
+625,Isao Ko Abe,24.0,177.0,75.0,Athletics
+626,Kazumi Abe,24.0,178.0,67.0,Bobsleigh
+627,Kazumi Abe,24.0,178.0,67.0,Bobsleigh
+628,Kazumi Abe,28.0,178.0,67.0,Bobsleigh
+629,Kazumi Abe,28.0,178.0,67.0,Bobsleigh
+630,Kazuo Abe,25.0,166.0,69.0,Wrestling
+631,Kinya Abe,23.0,168.0,68.0,Fencing
+632,Kiyoshi Abe,25.0,167.0,62.0,Wrestling
+633,Masashi Abe,22.0,175.0,64.0,Nordic Combined
+634,Masashi Abe,22.0,175.0,64.0,Nordic Combined
+635,Masashi Abe,26.0,175.0,64.0,Nordic Combined
+636,Masashi Abe,28.0,175.0,64.0,Nordic Combined
+637,Masashi Abe,28.0,175.0,64.0,Nordic Combined
+638,Naoki Abe,23.0,173.0,68.0,Athletics
+639,Naoki Abe,23.0,173.0,68.0,Athletics
+640,Osamu Abe,22.0,,,Rowing
+641,Shigeaki Abe,24.0,178.0,70.0,Basketball
+642,Shigeaki Abe,28.0,178.0,70.0,Basketball
+643,Shinnosuke Abe,21.0,179.0,91.0,Baseball
+644,Shinnosuke Abe,29.0,179.0,91.0,Baseball
+645,"Sanshiro ""Sonny"" Abe",26.0,166.0,57.0,Wrestling
+646,Tadashi Abe,21.0,190.0,80.0,Rowing
+647,Tadashi Abe,25.0,190.0,80.0,Rowing
+648,Tadashi Abe,29.0,190.0,80.0,Rowing
+649,Tadatoshi Abe,28.0,170.0,60.0,Hockey
+650,Wakako Abe,18.0,168.0,60.0,Cycling
+651,Yoshiyuki Abe,31.0,175.0,67.0,Cycling
+652,Yuki Abe,22.0,177.0,75.0,Football
+653,Angelik Abebame,,,,Handball
+654,Addis Abebe,21.0,160.0,50.0,Athletics
+655,Addis Abebe,21.0,160.0,50.0,Athletics
+656,Biruk Abebe,22.0,173.0,62.0,Cycling
+657,Biruk Abebe,22.0,173.0,62.0,Cycling
+658,Benaissa Abed,23.0,170.0,51.0,Boxing
+659,Soha Abed Elaal,35.0,,,Archery
+660,Mojtaba Abedini Shormasti,27.0,180.0,83.0,Fencing
+661,Mojtaba Abedini Shormasti,31.0,180.0,83.0,Fencing
+662,Thophile Abega Mbida,30.0,,,Football
+663,"Max ""Xam"" Abegglen",22.0,,,Football
+664,"Max ""Xam"" Abegglen",26.0,,,Football
+665,Alexandre Abeid,22.0,194.0,92.0,Volleyball
+666,Alexandre Abeid,26.0,194.0,92.0,Volleyball
+667,Sonia Abejn Esteban,19.0,169.0,48.0,Rhythmic Gymnastics
+668,Abel Carlos da Silva Braga,19.0,190.0,73.0,Football
+669,Adolf Gaston Abel,45.0,,,Art Competitions
+670,Adolf Gaston Abel,45.0,,,Art Competitions
+671,Brooke Abel,20.0,163.0,52.0,Synchronized Swimming
+672,Clarence John Abel,23.0,185.0,102.0,Ice Hockey
+673,George Gordon Abel,35.0,,,Ice Hockey
+674,Gnther Abel,19.0,183.0,80.0,Nordic Combined
+675,Gnther Abel,23.0,183.0,80.0,Nordic Combined
+676,Irene Abel,19.0,160.0,48.0,Gymnastics
+677,Irene Abel,19.0,160.0,48.0,Gymnastics
+678,Irene Abel,19.0,160.0,48.0,Gymnastics
+679,Irene Abel,19.0,160.0,48.0,Gymnastics
+680,Irene Abel,19.0,160.0,48.0,Gymnastics
+681,Irene Abel,19.0,160.0,48.0,Gymnastics
+682,Jennifer Abel,16.0,160.0,62.0,Diving
+683,Jennifer Abel,20.0,160.0,62.0,Diving
+684,Jennifer Abel,20.0,160.0,62.0,Diving
+685,Jennifer Abel,24.0,160.0,62.0,Diving
+686,Jennifer Abel,24.0,160.0,62.0,Diving
+687,Katja Abel,25.0,165.0,55.0,Gymnastics
+688,Katja Abel,25.0,165.0,55.0,Gymnastics
+689,Katja Abel,25.0,165.0,55.0,Gymnastics
+690,Katja Abel,25.0,165.0,55.0,Gymnastics
+691,Katja Abel,25.0,165.0,55.0,Gymnastics
+692,Mara Abel Diguez,25.0,163.0,46.0,Athletics
+693,Mara Abel Diguez,29.0,163.0,46.0,Athletics
+694,Roger Abel,24.0,,,Shooting
+695,Roger Abel,36.0,,,Shooting
+696,Roger Abel,36.0,,,Shooting
+697,Roger Abel,48.0,,,Shooting
+698,Roger Abel,52.0,,,Shooting
+699,Roger Abel,52.0,,,Shooting
+700,Egil Sten Abel,20.0,,,Sailing
+701,Yaritza Abel Rojas,28.0,,62.0,Judo
+702,Abelardo Fernndez Antua,22.0,,,Football
+703,Arthur Abele,22.0,184.0,85.0,Athletics
+704,Arthur Abele,30.0,184.0,85.0,Athletics
+705,Ruth Abeles,18.0,153.0,48.0,Gymnastics
+706,Ruth Abeles,18.0,153.0,48.0,Gymnastics
+707,Ruth Abeles,18.0,153.0,48.0,Gymnastics
+708,Ruth Abeles,18.0,153.0,48.0,Gymnastics
+709,Ruth Abeles,18.0,153.0,48.0,Gymnastics
+710,"Louis Grenville ""Lou"" Abell",15.0,,,Rowing
+711,"Louis Grenville ""Lou"" Abell",19.0,,,Rowing
+712,Jos Javier Abella Fanjul,22.0,176.0,66.0,Football
+713,Ramn Neptuno Abella Caside,26.0,,,Water Polo
+714,Ral Daniel Abella,26.0,,,Biathlon
+715,Ral Daniel Abella,26.0,,,Biathlon
+716,Ral Daniel Abella,26.0,,,Biathlon
+717,Alfonso Abelln Lpez,37.0,174.0,63.0,Athletics
+718,Juan Luis Abelln Pallahi,19.0,,,Water Polo
+719,Edwige Marie Abna Fouda,23.0,173.0,61.0,Athletics
+720,Gezahgne Abera,22.0,166.0,58.0,Athletics
+721,Tesfaye Abera Dibaba,24.0,192.0,68.0,Athletics
+722,Hugo Ral Aberastegui,27.0,186.0,84.0,Rowing
+723,Hugo Ral Aberastegui,30.0,186.0,84.0,Rowing
+724,Hugo Ral Aberastegui,34.0,186.0,84.0,Rowing
+725,Arvid berg,26.0,,,Athletics
+726,Bjrn Olof Conny berg,23.0,181.0,76.0,Freestyle Skiing
+727,Nils Georg berg,19.0,181.0,78.0,Athletics
+728,Nils Georg berg,19.0,181.0,78.0,Athletics
+729,Sara Helena berg,17.0,190.0,73.0,Swimming
+730,Karl Konrad berg,22.0,,,Wrestling
+731,Majken berg,30.0,170.0,60.0,Athletics
+732,"Olof Viktor ""Olle"" berg",27.0,181.0,78.0,Athletics
+733,Mohamed Aberhoune,23.0,187.0,75.0,Football
+734,"Julianne ""Anne"" Abernathy",34.0,165.0,75.0,Luge
+735,"Julianne ""Anne"" Abernathy",38.0,165.0,75.0,Luge
+736,"Julianne ""Anne"" Abernathy",40.0,165.0,75.0,Luge
+737,"Julianne ""Anne"" Abernathy",44.0,165.0,75.0,Luge
+738,"Julianne ""Anne"" Abernathy",48.0,165.0,75.0,Luge
+739,Michael Brent Abernathy,22.0,182.0,84.0,Baseball
+740,Moira Abernethy (-Ford),17.0,,,Swimming
+741,Moira Abernethy (-Ford),17.0,,,Swimming
+742,Salim Abes,25.0,,,Handball
+743,Edme Abetel (-Barr),29.0,,,Alpine Skiing
+744,Pasqualino Abeti,24.0,173.0,66.0,Athletics
+745,Elvan Abeylegesse,21.0,159.0,40.0,Athletics
+746,Elvan Abeylegesse,21.0,159.0,40.0,Athletics
+747,Elvan Abeylegesse,25.0,159.0,40.0,Athletics
+748,Elvan Abeylegesse,25.0,159.0,40.0,Athletics
+749,Ruwani Abeymanne,30.0,160.0,53.0,Shooting
+750,Ruwani Abeymanne,30.0,160.0,53.0,Shooting
+751,Matthew Duncan Abeysinghe,20.0,180.0,74.0,Swimming
+752,Narek Abgaryan,24.0,166.0,52.0,Boxing
+753,Koutoua Francis Abia,26.0,180.0,80.0,Canoeing
+754,Koutoua Francis Abia,30.0,180.0,80.0,Canoeing
+755,Koutoua Francis Abia,42.0,180.0,80.0,Canoeing
+756,Koutoua Francis Abia,42.0,180.0,80.0,Canoeing
+757,Pablo Abin Vicen,23.0,177.0,68.0,Badminton
+758,Pablo Abin Vicen,27.0,177.0,68.0,Badminton
+759,Pablo Abin Vicen,31.0,177.0,68.0,Badminton
+760,David Abibssira,21.0,179.0,63.0,Shooting
+761,Silke Abicht,19.0,156.0,46.0,Diving
+762,Haithem Abid,22.0,179.0,72.0,Football
+763,Younis Abid Sadkhan,18.0,,,Football
+764,Jaiye Abidoye,30.0,,,Athletics
+765,Jaiye Abidoye,30.0,,,Athletics
+766,Sagat Abikeyeva,27.0,160.0,78.0,Judo
+767,Mitsuhiro Abiko,19.0,169.0,62.0,Athletics
+768,Tomomi Abiko,24.0,173.0,53.0,Athletics
+769,"Catherine ""Kate"" Abilla Awino",27.0,162.0,56.0,Rugby Sevens
+770,Ismail Abilov (-Nizamolu),25.0,172.0,82.0,Wrestling
+771,Ismail Abilov (-Nizamolu),29.0,172.0,82.0,Wrestling
+772,Camille Anne Franoise Abily,27.0,168.0,60.0,Football
+773,Camille Anne Franoise Abily,31.0,168.0,60.0,Football
+774,Endurance Abinuwa,24.0,159.0,54.0,Athletics
+775,Bode Abiodun,35.0,170.0,68.0,Table Tennis
+776,Firmin Abissi,28.0,159.0,54.0,Boxing
+777,Firmin Abissi,32.0,159.0,54.0,Boxing
+778,Sarah Abitbol,22.0,150.0,43.0,Figure Skating
+779,Inga Eduardovna Abitova,26.0,164.0,58.0,Athletics
+780,Ceyhun Abiyev,29.0,163.0,48.0,Boxing
+781,Diana Monteiro Abla,21.0,175.0,75.0,Water Polo
+782,Enver Nazymovych Ablaiev,22.0,169.0,68.0,Freestyle Skiing
+783,Enver Nazymovych Ablaiev,26.0,169.0,68.0,Freestyle Skiing
+784,Enver Nazymovych Ablaiev,30.0,169.0,68.0,Freestyle Skiing
+785,Leslie Ablett,24.0,,,Water Polo
+786,Leslie Ablett,32.0,,,Water Polo
+787,"Edgar Allen ""Ed"" Ablowich",19.0,182.0,68.0,Athletics
+788,Denis Mikhaylovich Ablyazin,19.0,161.0,62.0,Gymnastics
+789,Denis Mikhaylovich Ablyazin,19.0,161.0,62.0,Gymnastics
+790,Denis Mikhaylovich Ablyazin,19.0,161.0,62.0,Gymnastics
+791,Denis Mikhaylovich Ablyazin,19.0,161.0,62.0,Gymnastics
+792,Denis Mikhaylovich Ablyazin,19.0,161.0,62.0,Gymnastics
+793,Denis Mikhaylovich Ablyazin,19.0,161.0,62.0,Gymnastics
+794,Denis Mikhaylovich Ablyazin,24.0,161.0,62.0,Gymnastics
+795,Denis Mikhaylovich Ablyazin,24.0,161.0,62.0,Gymnastics
+796,Denis Mikhaylovich Ablyazin,24.0,161.0,62.0,Gymnastics
+797,Denis Mikhaylovich Ablyazin,24.0,161.0,62.0,Gymnastics
+798,Karin Abma,24.0,174.0,62.0,Rowing
+799,Thorine Christelle Aboa Mbeza,23.0,182.0,78.0,Volleyball
+800,Felix Ahmed Aboagye,20.0,176.0,70.0,Football
+801,Bukola Dammy Abogunloko,17.0,170.0,53.0,Athletics
+802,Viktor Andreyevich Aboimov,22.0,190.0,78.0,Swimming
+803,Viktor Andreyevich Aboimov,22.0,190.0,78.0,Swimming
+804,Viktor Andreyevich Aboimov,22.0,190.0,78.0,Swimming
+805,Viktor Andreyevich Aboimov,22.0,190.0,78.0,Swimming
+806,Mohamed Aboker,26.0,175.0,61.0,Athletics
+807,Mohamed Aboker,26.0,175.0,61.0,Athletics
+808,Ilze bola,19.0,169.0,60.0,Alpine Skiing
+809,Agnese boltia,17.0,166.0,60.0,Alpine Skiing
+810,Agnese boltia,17.0,166.0,60.0,Alpine Skiing
+811,Agnese boltia,17.0,166.0,60.0,Alpine Skiing
+812,Abdul Razzak Aboobakur,25.0,168.0,59.0,Athletics
+813,"Matthew ""Matt"" Abood",30.0,197.0,92.0,Swimming
+814,"Matthew ""Matt"" Abood",30.0,197.0,92.0,Swimming
+815,Piroska Abos Gvorgyzakab,25.0,,,Cross Country Skiing
+816,Piroska Abos Gvorgyzakab,25.0,,,Cross Country Skiing
+817,Piroska Abos Gvorgyzakab,25.0,,,Cross Country Skiing
+818,Jean-Pierre Abossolo-Ze,27.0,,,Athletics
+819,Jean-Pierre Abossolo-Ze,27.0,,,Athletics
+820,Abdelhalim Muhammad Abou,27.0,210.0,88.0,Volleyball
+821,Tarek Abou Al Dahab,28.0,170.0,64.0,Cycling
+822,Tarek Abou Al Dahab,28.0,170.0,64.0,Cycling
+823,Tarek Abou Al Dahab,28.0,170.0,64.0,Cycling
+824,Tarek Abou Al Dahab,28.0,170.0,64.0,Cycling
+825,Tarek Abou Al Dahab,32.0,170.0,64.0,Cycling
+826,Tarek Abou Al Dahab,32.0,170.0,64.0,Cycling
+827,Bachir Hani Abou Assi,24.0,175.0,74.0,Wrestling
+828,Ashraf Abou El-Hassan,25.0,186.0,86.0,Volleyball
+829,Ashraf Abou El-Hassan,33.0,186.0,86.0,Volleyball
+830,Ashraf Abou El-Hassan,41.0,186.0,86.0,Volleyball
+831,Galal El-Din Abdel Meguid Abou El-Kheir,24.0,,,Water Polo
+832,Magdy Abou El-Magd,27.0,188.0,85.0,Handball
+833,Essameldin Abou El-Nein,29.0,205.0,102.0,Basketball
+834,Abdel Khlik Abou El-Yazi,26.0,,,Hockey
+835,Mohamed Moustafa Abou Elea,20.0,168.0,54.0,Wrestling
+836,Mahmoud Abou Elelaa,30.0,181.0,76.0,Volleyball
+837,Mohammed Tawfiq Abou Habaga,27.0,,,Football
+838,Zaid Abou Hamed,30.0,182.0,79.0,Athletics
+839,Youssef Kamel Mohamed Abou Ouf,24.0,,,Basketball
+840,Youssef Kamel Mohamed Abou Ouf,28.0,,,Basketball
+841,Gaber Mooti Abou Zeid,22.0,187.0,82.0,Volleyball
+842,Gaber Mooti Abou Zeid,30.0,187.0,82.0,Volleyball
+843,Taher Abou Zeid Sayid Amer,22.0,,,Football
+844,Ahmed Farid Abou-Shadi,38.0,,,Fencing
+845,Ahmed Farid Abou-Shadi,38.0,,,Fencing
+846,Ahmed Farid Abou-Shadi,42.0,,,Fencing
+847,Ahmed Farid Abou-Shadi,42.0,,,Fencing
+848,Abdel Fattah Abou-Shanab,24.0,,,Rowing
+849,Abdel Fattah Abou-Shanab,28.0,,,Rowing
+850,Sadoon Mohamed Aboub,21.0,170.0,48.0,Boxing
+851,Zakaria Aboub,20.0,171.0,65.0,Football
+852,Inni Aboubacar,,,,Athletics
+853,Ibrahim Mohamedin Aboubaker,21.0,190.0,65.0,Athletics
+854,Ibrahim Mohamedin Aboubaker,25.0,190.0,65.0,Athletics
+855,Ahmed Ghmin Aboud,22.0,170.0,51.0,Boxing
+856,Fathi Khalifa Aboud,23.0,175.0,75.0,Athletics
+857,Kamel Aboud,22.0,178.0,67.0,Boxing
+858,Marwan Suhail Aboud,,,,Wrestling
+859,Rabah Aboud,31.0,180.0,64.0,Athletics
+860,Mamdouh Taha Al-Husseini Abouebaid,28.0,183.0,85.0,Handball
+861,Alaaeldin Ahmad El-Sayyid Abouelkassem,21.0,188.0,87.0,Fencing
+862,Alaaeldin Ahmad El-Sayyid Abouelkassem,21.0,188.0,87.0,Fencing
+863,Alaaeldin Ahmad El-Sayyid Abouelkassem,25.0,188.0,87.0,Fencing
+864,Alaaeldin Ahmad El-Sayyid Abouelkassem,25.0,188.0,87.0,Fencing
+865,Haysam Farouk Abouelw,21.0,,,Football
+866,Waguih Rauf Aboul Seoud,22.0,,,Diving
+867,El-Sayed Aboumedan,26.0,178.0,81.0,Judo
+868,Dany Abounaoum,22.0,,,Alpine Skiing
+869,Dany Abounaoum,22.0,,,Alpine Skiing
+870,Sdonoud Janvier Abouta,23.0,,,Football
+871,Mohamed Mohamed Mohamed Aboutrika,33.0,182.0,77.0,Football
+872,Ahmad Shah Abouwi,,,,Hockey
+873,Adeola Aboyade-Cole,22.0,193.0,78.0,Athletics
+874,Cheryl Abplanalp,24.0,174.0,68.0,Handball
+875,"Alexander ""Alex"" Abraham (Steglitz)",25.0,186.0,84.0,Athletics
+876,Andrei Abraham,19.0,,,Gymnastics
+877,Andrei Abraham,19.0,,,Gymnastics
+878,Andrei Abraham,19.0,,,Gymnastics
+879,Andrei Abraham,19.0,,,Gymnastics
+880,Andrei Abraham,19.0,,,Gymnastics
+881,Andrei Abraham,19.0,,,Gymnastics
+882,Andrei Abraham,19.0,,,Gymnastics
+883,Andrei Abraham,19.0,,,Gymnastics
+884,Attila brahm,21.0,192.0,88.0,Canoeing
+885,Attila brahm,21.0,192.0,88.0,Canoeing
+886,Attila brahm,25.0,192.0,88.0,Canoeing
+887,Bernhard Abraham,,,,Gymnastics
+888,Gary Abraham,17.0,175.0,64.0,Swimming
+889,Gary Abraham,17.0,175.0,64.0,Swimming
+890,Gary Abraham,21.0,175.0,64.0,Swimming
+891,Gary Abraham,21.0,175.0,64.0,Swimming
+892,Gary Abraham,21.0,175.0,64.0,Swimming
+893,Melita Isidora Abraham Schssler,19.0,170.0,62.0,Rowing
+894,Tadesse Abraham,33.0,178.0,61.0,Athletics
+895,Shiny Kurisingal Abraham-Wilson,19.0,167.0,53.0,Athletics
+896,Shiny Kurisingal Abraham-Wilson,19.0,167.0,53.0,Athletics
+897,Shiny Kurisingal Abraham-Wilson,23.0,167.0,53.0,Athletics
+898,Shiny Kurisingal Abraham-Wilson,23.0,167.0,53.0,Athletics
+899,Shiny Kurisingal Abraham-Wilson,27.0,167.0,53.0,Athletics
+900,Shiny Kurisingal Abraham-Wilson,31.0,167.0,53.0,Athletics
+901,Mariola Teresa Abrahamczyk (-Fronckowiak),21.0,180.0,70.0,Rowing
+902,Ara Abrahamian,25.0,191.0,84.0,Wrestling
+903,Ara Abrahamian,29.0,191.0,84.0,Wrestling
+904,Ara Abrahamian,33.0,191.0,84.0,Wrestling
+905,Stphan Abrahamian Gonzalez,22.0,,,Cycling
+906,Clyde Abrahams,29.0,178.0,68.0,Hockey
+907,Glen Abrahams Martnez,22.0,179.0,72.0,Athletics
+908,Glen Abrahams Martnez,22.0,179.0,72.0,Athletics
+909,Guy A. Abrahams,23.0,173.0,65.0,Athletics
+910,Guy A. Abrahams,23.0,173.0,65.0,Athletics
+911,Harold Maurice Abrahams,20.0,183.0,75.0,Athletics
+912,Harold Maurice Abrahams,20.0,183.0,75.0,Athletics
+913,Harold Maurice Abrahams,20.0,183.0,75.0,Athletics
+914,Harold Maurice Abrahams,20.0,183.0,75.0,Athletics
+915,Harold Maurice Abrahams,24.0,183.0,75.0,Athletics
+916,Harold Maurice Abrahams,24.0,183.0,75.0,Athletics
+917,Harold Maurice Abrahams,24.0,183.0,75.0,Athletics
+918,Sidney Solomon Abrahams,21.0,,,Athletics
+919,Sidney Solomon Abrahams,21.0,,,Athletics
+920,Sidney Solomon Abrahams,27.0,,,Athletics
+921,Isak Abrahamsen,21.0,,,Gymnastics
+922,Knut Leo Abrahamsen,25.0,,,Nordic Combined
+923,Trond Sevg Abrahamsen,19.0,183.0,87.0,Ice Hockey
+924,Trond Sevg Abrahamsen,23.0,183.0,87.0,Ice Hockey
+925,"Donald Robert Abrahamson, Jr.",26.0,162.0,67.0,Weightlifting
+926,Richard Neal Abrahamson,24.0,190.0,88.0,Handball
+927,Richard Neal Abrahamson,28.0,190.0,88.0,Handball
+928,Kurt Christer Abrahamsson (-Abris),24.0,187.0,77.0,Ice Hockey
+929,Erik Adolf Efraim Abrahamsson,22.0,172.0,61.0,Athletics
+930,Karl Gran Abrahamsson,28.0,180.0,72.0,Fencing
+931,Karl Gran Abrahamsson,28.0,180.0,72.0,Fencing
+932,Karl Gran Abrahamsson,28.0,180.0,72.0,Fencing
+933,Karl Gran Abrahamsson,33.0,180.0,72.0,Fencing
+934,Karl Gran Abrahamsson,33.0,180.0,72.0,Fencing
+935,Karl Gustaf Emanuel Abrahamsson,31.0,,,Ice Hockey
+936,Ulf Thommy Abrahamsson,24.0,185.0,81.0,Ice Hockey
+937,"Fletcher Abram, Jr.",21.0,193.0,87.0,Handball
+938,Iason Abramashvili,17.0,176.0,82.0,Alpine Skiing
+939,Iason Abramashvili,17.0,176.0,82.0,Alpine Skiing
+940,Iason Abramashvili,21.0,176.0,82.0,Alpine Skiing
+941,Iason Abramashvili,21.0,176.0,82.0,Alpine Skiing
+942,Iason Abramashvili,25.0,176.0,82.0,Alpine Skiing
+943,Iason Abramashvili,25.0,176.0,82.0,Alpine Skiing
+944,Yelena Vasilyevna Abramchuk (Kopets-),28.0,182.0,95.0,Athletics
+945,Oleksandr Volodymyrovych Abramenko,17.0,180.0,82.0,Freestyle Skiing
+946,Oleksandr Volodymyrovych Abramenko,21.0,180.0,82.0,Freestyle Skiing
+947,Oleksandr Volodymyrovych Abramenko,25.0,180.0,82.0,Freestyle Skiing
+948,Yevgeny Sergeyevich Abramenko,22.0,181.0,80.0,Biathlon
+949,Yevgeny Sergeyevich Abramenko,22.0,181.0,80.0,Biathlon
+950,Yevgeny Sergeyevich Abramenko,22.0,181.0,80.0,Biathlon
+951,Yevgeny Sergeyevich Abramenko,22.0,181.0,80.0,Biathlon
+952,Yevgeny Sergeyevich Abramenko,26.0,181.0,80.0,Biathlon
+953,Yevgeny Sergeyevich Abramenko,26.0,181.0,80.0,Biathlon
+954,Yevgeny Sergeyevich Abramenko,26.0,181.0,80.0,Biathlon
+955,Yevgeny Sergeyevich Abramenko,26.0,181.0,80.0,Biathlon
+956,Yevgeny Sergeyevich Abramenko,26.0,181.0,80.0,Biathlon
+957,Lahcen Abrami,22.0,,,Football
+958,Ek'aterina Abramia,16.0,167.0,43.0,Rhythmic Gymnastics
+959,Jernej Abrami,31.0,175.0,70.0,Canoeing
+960,Levan Abramishvili,23.0,181.0,84.0,Alpine Skiing
+961,Levan Abramishvili,27.0,181.0,84.0,Alpine Skiing
+962,Andrey Vasilyevich Abramov,24.0,180.0,100.0,Boxing
+963,Andrey Viktorovich Abramov,24.0,176.0,70.0,Archery
+964,Andrey Viktorovich Abramov,24.0,176.0,70.0,Archery
+965,Nikolay Kuzmich Abramov,30.0,164.0,59.0,Athletics
+966,Pavel Sergeyevich Abramov,25.0,198.0,89.0,Volleyball
+967,Sergey Mikhaylovich Abramov,34.0,180.0,94.0,Ice Hockey
+968,Valery Aleksandrovich Abramov,23.0,173.0,61.0,Athletics
+969,Inna Vladimirovna Abramova,21.0,172.0,63.0,Swimming
+970,Inna Vladimirovna Abramova,21.0,172.0,63.0,Swimming
+971,Nelli Mikhaylovna Abramova,24.0,171.0,60.0,Volleyball
+972,Yekaterina Konstantinovna Abramova,23.0,167.0,65.0,Speed Skating
+973,Yekaterina Konstantinovna Abramova,23.0,167.0,65.0,Speed Skating
+974,Yekaterina Konstantinovna Abramova,23.0,167.0,65.0,Speed Skating
+975,Yekaterina Konstantinovna Abramova,27.0,167.0,65.0,Speed Skating
+976,Alen Abramovi,29.0,180.0,72.0,Cross Country Skiing
+977,Alen Abramovi,29.0,180.0,72.0,Cross Country Skiing
+978,Dmitry Vladimirovich Abramovich,27.0,182.0,96.0,Bobsleigh
+979,Dmitry Vladimirovich Abramovich,27.0,182.0,96.0,Bobsleigh
+980,Aliyah Abrams,19.0,163.0,53.0,Athletics
+981,Colin Winston Abrams,32.0,180.0,70.0,Cycling
+982,John Charles Abrams,22.0,183.0,,Hockey
+983,John Charles Abrams,25.0,183.0,,Hockey
+984,Benik Abramyan,31.0,186.0,115.0,Athletics
+985,Antnio da Cunha Meneses Martins Abrantes,20.0,176.0,68.0,Athletics
+986,Antnio da Cunha Meneses Martins Abrantes,20.0,176.0,68.0,Athletics
+987,Antnio da Cunha Meneses Martins Abrantes,24.0,176.0,68.0,Athletics
+988,Antnio da Cunha Meneses Martins Abrantes,28.0,176.0,68.0,Athletics
+989,Arnaldo Lus Isaas Abrantes,21.0,183.0,72.0,Athletics
+990,Arnaldo Lus Isaas Abrantes,25.0,183.0,72.0,Athletics
+991,Arnaldo Joaquim Castro Abrantes,26.0,174.0,68.0,Athletics
+992,David Abrard,19.0,187.0,81.0,Swimming
+993,Tsvetelina Abrasheva,16.0,,,Figure Skating
+994,Amir Abrashi,22.0,172.0,70.0,Football
+995,Thomas Abratis,26.0,184.0,73.0,Nordic Combined
+996,Thomas Abratis,26.0,184.0,73.0,Nordic Combined
+997,Pawe Abratkiewicz,21.0,183.0,84.0,Speed Skating
+998,Pawe Abratkiewicz,21.0,183.0,84.0,Speed Skating
+999,Pawe Abratkiewicz,27.0,183.0,84.0,Speed Skating
